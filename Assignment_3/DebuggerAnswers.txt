@@ -1,0 +1,24 @@
+Q1:
+
+finish->'C'
+numDisk->5
+start->'A'
+temp->'B'
+totalMoves->1 （这个值是随机的）
+
+
+Q2:
+
+abracadabra？
+
+
+Q3:
+
+31
+
+
+Q4:
+
+15
+
+
